@@ -3,10 +3,10 @@ An online multiplayer game where you hit a paintball splash on a moving canvas u
 
 # Screenshots
 ### Main Screen
-![Main Screen](https://github.com/vishaluchil/Paint-Splat.git/blob/main/SS1.jpg?raw=true)
+![Main Screen](https://github.com/vishaluchil/Paint-Splat/blob/main/SS1.jpg?raw=true)
 
 ### Loading Screen
-![Loading Screen](https://github.com/vishaluchil/Paint-Splat.git/blob/main/SS2.jpg?raw=true)
+![Loading Screen](https://github.com/vishaluchil/Paint-Splat/blob/main/SS2.jpg?raw=true)
 
 ### Gameplay Screen
-![Gameplay Screen](https://github.com/vishaluchil/Paint-Splat.git/blob/main/SS3.jpg?raw=true)
+![Gameplay Screen](https://github.com/vishaluchil/Paint-Splat/blob/main/SS3.jpg?raw=true)
