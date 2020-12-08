@@ -1,5 +1,5 @@
 # Paint-Splat
-An online multiplayer game where you hit a paintball splash on a moving canvas using your joystick and crosshair to achieve the highest score among all the players. This project was made using Unity Game Engine.
+An online multiplayer game where you hit a paintball splash on a moving canvas using your joystick and crosshair to achieve the highest score among all the players. This project was made using Unity Game Engine and proton framework for multiplayer implementation.
 
 # Screenshots
 ### Main Screen
